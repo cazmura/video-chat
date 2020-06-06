@@ -4,7 +4,7 @@ function setup() {
 
   // skywayのインスタンスを作成
   let peer = new Peer({
-    key: "51af5899-2541-43dc-acff-95976dccb605",
+    key: "2acb73ca-666c-484d-828c-4cf556cab03f",
   });
   // skywayでドメインを許可していれば実行される
   peer.on("open", () => {
